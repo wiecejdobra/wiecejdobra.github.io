@@ -1,7 +1,7 @@
-### Hi! I'm Jakub
-I'm a Data Analyst learning Data Science/Machine Learning with potential applications in high-impact areas as understood by Effective Altruism community.
+### Więcej Dobra - strona w budowie
+Tutaj powstanie platforma WiecejDobra.pl - projekt Fundacji Efektywny Altruizm Polska
 
-Checkout my
-- [LinkedIn profile](https://www.linkedin.com/in/jknowak/),
-- [Twitter](https://twitter.com/jknowak)
-- more TBA
+Sprawdź:
+- [Naszą stronę efektywnyaltruizm.org](https://www.linkedin.com/in/jknowak/](https://efektywnyaltruizm.org/),
+- [Nasz profil na Facebooku](https://www.facebook.com/efektywnyaltruizmfundacja),
+- [Nasz profil na LinkedIn](https://www.linkedin.com/company/efektywnyaltruizm/).
